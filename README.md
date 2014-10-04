@@ -1,10 +1,11 @@
 Git[hub] Webhooks
 ============
-
 After many search on NPM i haven't found what i need. This packet is really simple, he listen any Github webhooks on given port.
 
-## Installation
+## Dependencies
+- eventemitter2
 
+## Installation
 ```
 npm install git-webhooks
 ```
