@@ -1,7 +1,7 @@
 {
   "name": "git-webhooks",
   "description": "git-webhooks - a simple node server that responds to github post-receive events with meaningful data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/Antoine-Pous/git-webhooks",
   "author": {
     "name": "Antoine Pous",
@@ -26,7 +26,7 @@
     "node": ">=0.10.26"
   },
   "dependencies": {
-    "eventemitter2" : ">= 0.4.14" ,
+    "eventemitter2" : ">= 0.4.14"
   },
   "devDependencies": {
     "grunt": "~0.3.14"
